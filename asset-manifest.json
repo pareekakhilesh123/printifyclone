@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/printifyclone/static/css/main.ac10a16b.css",
-    "main.js": "/printifyclone/static/js/main.90706f6f.js",
+    "main.css": "/printifyclone/static/css/main.1d307b50.css",
+    "main.js": "/printifyclone/static/js/main.ebc034e8.js",
     "index.html": "/printifyclone/index.html",
-    "main.ac10a16b.css.map": "/printifyclone/static/css/main.ac10a16b.css.map",
-    "main.90706f6f.js.map": "/printifyclone/static/js/main.90706f6f.js.map"
+    "main.1d307b50.css.map": "/printifyclone/static/css/main.1d307b50.css.map",
+    "main.ebc034e8.js.map": "/printifyclone/static/js/main.ebc034e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac10a16b.css",
-    "static/js/main.90706f6f.js"
+    "static/css/main.1d307b50.css",
+    "static/js/main.ebc034e8.js"
   ]
 }
