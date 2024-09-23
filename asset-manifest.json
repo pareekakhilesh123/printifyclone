@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/printifyclone/static/css/main.ac10a16b.css",
+    "main.js": "/printifyclone/static/js/main.90706f6f.js",
+    "index.html": "/printifyclone/index.html",
+    "main.ac10a16b.css.map": "/printifyclone/static/css/main.ac10a16b.css.map",
+    "main.90706f6f.js.map": "/printifyclone/static/js/main.90706f6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac10a16b.css",
+    "static/js/main.90706f6f.js"
+  ]
+}
