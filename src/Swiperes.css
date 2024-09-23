@@ -1,0 +1,5 @@
+.swiperes{
+    display: flex;
+    flex-direction: row;
+    margin: 160px;
+}

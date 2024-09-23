@@ -1,0 +1,22 @@
+.platform-box {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .platform-box:hover {
+    transform: scale(1.1);
+  }
+  
+  .platform-logo {
+    max-width: 80%;
+    max-height: 80%;
+  }
+  

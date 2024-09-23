@@ -11,7 +11,8 @@ const Header = () => {
         </div>
         <ul className="nav-links">
           <li>Catalog</li>
-          <li>How it works</li>
+          <li>How it works
+          </li>
           <li>Pricing</li>
           <li>Blog</li>
           <li>Services</li>

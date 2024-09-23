@@ -1,0 +1,53 @@
+.socialproof {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .socialproof h3 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .socialproof p {
+    font-size: 1rem;
+    color: #6c757d;
+  }
+  
+  .testimonial-section {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .testimonial-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: left;
+  }
+  
+  .testimonial-img img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+  }
+  
+  .testimonial-details h4 {
+    font-size: 1.25rem;
+    margin: 10px 0;
+  }
+  
+  .store-link {
+    font-size: 0.875rem;
+    color: #28a745;
+    text-decoration: none;
+  }
+  
+  .testimonial-details p {
+    font-size: 0.9rem;
+    color: #6c757d;
+  }
+  
